@@ -3,7 +3,3 @@ kind: Kustomization
 
 resources:
 - resources/deployment.yaml
-images:
-- name: ghcr.io/remcowesterhoud/techtalk-gitops
-- name: ghcr.io/remcowesterhoud/techtalk-gitops:ghcr.io/remcowesterhoud/techtalk-gitops
-  newTag: sha-0ccc977
