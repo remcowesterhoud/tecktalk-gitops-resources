@@ -5,5 +5,3 @@ resources:
 - resources/deployment.yaml
 images:
 - name: ghcr.io/remcowesterhoud/techtalk-gitops
-  newName: ghcr.io/remcowesterhoud/techtalk-gitops
-  newTag: "master"
