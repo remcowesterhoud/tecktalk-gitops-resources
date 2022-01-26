@@ -3,6 +3,7 @@ kind: Kustomization
 
 resources:
 - resources/deployment.yaml
+- resources/sealedsecrets.yaml
 images:
 - name: ghcr.io/remcowesterhoud/techtalk-gitops
   newTag: sha-63f55a6
