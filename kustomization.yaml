@@ -5,4 +5,4 @@ resources:
 - resources/deployment.yaml
 images:
 - name: ghcr.io/remcowesterhoud/techtalk-gitops
-  newTag: sha-ae1fe9b
+  newTag: sha-63f55a6
